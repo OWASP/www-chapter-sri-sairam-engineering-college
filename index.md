@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Sri Sairam Engineering College
-tags: example-tag
+tags: OWASP-SSEC
 region: Asia
 country: India
 meetup-group:
