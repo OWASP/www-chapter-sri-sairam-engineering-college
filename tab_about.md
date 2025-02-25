@@ -6,6 +6,12 @@ order: 1
 tags: OWASP-SSEC
 ---
 
-## Example
+## About our Team
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+### Sri Sairam Engineering College OWASP student branch was started on FEB 2025
+
+| Name              | Role           |
+| ----------------- | -------------- |
+| Dr.Soma prathibha | faculty mentor |
+| Kannan K          | Leader         |
+| Gowtham P N       | Leader         |
