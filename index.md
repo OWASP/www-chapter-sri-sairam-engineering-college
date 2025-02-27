@@ -10,7 +10,7 @@ meetup-group:
 ---
 
 ## Welcome
-<img src="assets/images/owasp_ssec.png">
+<img src="assets/images/OWASP_SEC.png">
 
 ```THIS IS SRI SAIRAM ENGINEERING COLLEGE'S OWASP STUDENT BRANCH```
 
