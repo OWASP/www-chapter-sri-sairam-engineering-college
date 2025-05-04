@@ -1,17 +1,28 @@
 ---
-title: About
-layout:  null
-tab: true
-order: 2
-tags: OWASP-SSEC
+title: About  
+layout: null  
+tab: true  
+order: 2  
+tags: OWASP-SSEC  
 ---
 
-## About our Team
+## 👥 About Our Team
 
-### Sri Sairam Engineering College OWASP student branch was started on FEB 2025
+Welcome to the **OWASP Student Chapter** at **Sri Sairam Engineering College**!  
+We are passionate about cybersecurity and committed to fostering a secure digital world through learning, collaboration, and innovation.
 
-| Name              | Role           |
-| ----------------- | -------------- |
-| Dr.Soma prathibha | faculty mentor |
-| Kannan K          | Leader         |
-| Gowtham P N       | Leader         |
+### 📅 Established: **February 2025**
+
+---
+
+### 🧑‍🏫 Faculty Mentor  
+- **Dr. Soma Prathibha**
+
+### 🧑‍💻 Student Leaders  
+- **Kannan K** – Chapter Leader  
+- **Gowtham P N** – Chapter Leader  
+
+---
+
+We aim to conduct workshops, CTF events, and hands-on training sessions to equip students with real-world cybersecurity skills.  
+Join us in building a safer cyberspace! 🔐  
