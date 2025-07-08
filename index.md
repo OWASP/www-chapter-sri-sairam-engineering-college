@@ -5,7 +5,7 @@ title: OWASP Sri Sairam Engineering College
 tags: OWASP-SSEC
 region: Asia
 country: India
-meetup-group:owasp-sri-sairam-engineering-college-student-chapter
+meetup-group: owasp-sri-sairam-engineering-college-student-chapter
 
 ---
 
