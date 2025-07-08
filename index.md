@@ -23,4 +23,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+{ include chapter_events.html group=page.owasp-sri-sairam-engineering-college-student-chapter }
