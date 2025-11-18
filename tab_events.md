@@ -1,12 +1,12 @@
 ---
-title: Past Events
+title: Events
 layout:  null
 tab: true
 order: 1
 tags: OWASP-SSEC
 ---
 
-# Past Events
+# Events
 
 ## Inauguration of OWASP Sri Sairam Engineering College Chapter
 
