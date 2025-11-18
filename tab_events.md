@@ -34,5 +34,5 @@ Special shoutout to the entire organizing team for making the launch smooth and 
 
 DHARSHAN S P, Vikram Bose MSU
 
-This is just the beginning — stay tuned for workshops, CTFs, speaker sessions, and hands-on cyber adventures 🛡️
+This is just the beginning — stay tuned for workshops, CTFs, speaker sessions, and hands-on cyber adventures 
 
