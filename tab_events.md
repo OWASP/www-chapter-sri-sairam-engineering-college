@@ -8,7 +8,7 @@ tags: OWASP-SSEC
 
 # Events
 
-<details>
+<details markdown="1">
 <summary><strong>🎉 Inauguration of OWASP Sri Sairam Engineering College Chapter - April 29, 2025</strong></summary>
 
 ![Inauguration of OWASP Sri Sairam Engineering College Chapter](/assets/images/event1_inaugration.jpeg)
@@ -17,29 +17,27 @@ It's Official – OWASP Sri Sairam Engineering College Chapter is LIVE! 🚨
 
 On 29.04.2025, we successfully inaugurated the OWASP Sri Sairam Engineering College Chapter — and it was nothing short of amazing! 🎉
 
-The event was graced by the presence of our beloved Heads of Department
+The event was graced by the presence of our beloved Heads of Department:
 
-Dr.Soma Prathibha , Dr. RAYAVEL PACHAMUTHU and Guests Sriram Kesavan,Manikandan Lakshmanan who lit the traditional lamp to mark the auspicious beginning of this exciting journey.
+**Dr.Soma Prathibha**, **Dr. RAYAVEL PACHAMUTHU** and Guests **Sriram Kesavan**, **Manikandan Lakshmanan** who lit the traditional lamp to mark the auspicious beginning of this exciting journey.
 
 That moment truly symbolized the light of knowledge we aim to spread through this chapter 🔥🪔
 
 As the Chapter Lead, it was an honor to see so much energy, support, and enthusiasm from students, faculty, and cybersecurity enthusiasts.
 
-💬 This chapter is not just about learning tools —
-
-It's about building a culture of curiosity, collaboration, and responsible hacking.
+💬 This chapter is not just about learning tools — it's about building a culture of curiosity, collaboration, and responsible hacking.
 
 A heartfelt thank you to our Principal, faculty members, and everyone who made this possible 🙏
 
 Special shoutout to the entire organizing team for making the launch smooth and impactful 💪
 
-DHARSHAN S P, Vikram Bose MSU
+**DHARSHAN S P, Vikram Bose MSU**
 
-This is just the beginning — stay tuned for workshops, CTFs, speaker sessions, and hands-on cyber adventures
+This is just the beginning — stay tuned for workshops, CTFs, speaker sessions, and hands-on cyber adventures!
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>🕵️‍♂️ Hack Your Way In: CTF for Beginners - July 13, 2025</strong></summary>
 
 ![Hack Your Way In: CTF for Beginners](/assets/images/event2.jpeg)
@@ -89,7 +87,7 @@ Join our exclusive webinar for beginners on Capture The Flag (CTF) challenges an
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>🔐 Building the Future of Cybersecurity: Career Path & Skill Development</strong></summary>
 
 ![Building the Future of Cybersecurity: Career Path & Skill Development](/assets/images/event3.jpeg)
@@ -128,7 +126,7 @@ Sessions like these not only expand our knowledge but also inspire us to explore
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>🚩 Introducing 3XPL0IT3RS – A Cybersecurity Community</strong></summary>
 
 ![Introducing 3XPL0IT3RS – A Cybersecurity Community](/assets/images/event4.jpeg)
