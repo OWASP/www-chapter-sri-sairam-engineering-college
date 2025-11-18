@@ -11,7 +11,7 @@ tags: OWASP-SSEC
 <details markdown="1">
 <summary><strong>🎉 Inauguration of OWASP Sri Sairam Engineering College Chapter - April 29, 2025</strong></summary>
 
-![Inauguration of OWASP Sri Sairam Engineering College Chapter](/assets/images/event1_inaugration.jpeg)
+<img src="/assets/images/event1_inaugration.jpeg" alt="Inauguration of OWASP Sri Sairam Engineering College Chapter">
 
 It's Official – OWASP Sri Sairam Engineering College Chapter is LIVE! 🚨
 
@@ -40,7 +40,7 @@ This is just the beginning — stay tuned for workshops, CTFs, speaker sessions,
 <details markdown="1">
 <summary><strong>🕵️‍♂️ Hack Your Way In: CTF for Beginners - July 13, 2025</strong></summary>
 
-![Hack Your Way In: CTF for Beginners](/assets/images/event2.jpeg)
+<img src="/assets/images/event2.jpeg" alt="Hack Your Way In: CTF for Beginners">
 
 ## Start Hacking (Without Ending Up in the News)🕵️‍♂️
 
@@ -90,7 +90,7 @@ Join our exclusive webinar for beginners on Capture The Flag (CTF) challenges an
 <details markdown="1">
 <summary><strong>🔐 Building the Future of Cybersecurity: Career Path & Skill Development</strong></summary>
 
-![Building the Future of Cybersecurity: Career Path & Skill Development](/assets/images/event3.jpeg)
+<img src="/assets/images/event3.jpeg" alt="Building the Future of Cybersecurity: Career Path & Skill Development">
 
 ## Building the Future of Cybersecurity: Career Path & Skill Development
 
@@ -129,7 +129,7 @@ Sessions like these not only expand our knowledge but also inspire us to explore
 <details markdown="1">
 <summary><strong>🚩 Introducing 3XPL0IT3RS – A Cybersecurity Community</strong></summary>
 
-![Introducing 3XPL0IT3RS – A Cybersecurity Community](/assets/images/event4.jpeg)
+<img src="/assets/images/event4.jpeg" alt="Introducing 3XPL0IT3RS – A Cybersecurity Community">
 
 ## 🚩 Introducing 3XPL0IT3RS – A Cybersecurity Community of SAIRAM - CSE(Cyber Security)
 
