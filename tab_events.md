@@ -8,11 +8,12 @@ tags: OWASP-SSEC
 
 # Events
 
-## Inauguration of OWASP Sri Sairam Engineering College Chapter
+<details>
+<summary><strong>🎉 Inauguration of OWASP Sri Sairam Engineering College Chapter - April 29, 2025</strong></summary>
 
 ![Inauguration of OWASP Sri Sairam Engineering College Chapter](assets/images/event1_inaugration.jpeg)
 
-It’s Official – OWASP Sri Sairam Engineering College Chapter is LIVE! 🚨
+It's Official – OWASP Sri Sairam Engineering College Chapter is LIVE! 🚨
 
 On 29.04.2025, we successfully inaugurated the OWASP Sri Sairam Engineering College Chapter — and it was nothing short of amazing! 🎉
 
@@ -26,7 +27,7 @@ As the Chapter Lead, it was an honor to see so much energy, support, and enthusi
 
 💬 This chapter is not just about learning tools —
 
-It’s about building a culture of curiosity, collaboration, and responsible hacking.
+It's about building a culture of curiosity, collaboration, and responsible hacking.
 
 A heartfelt thank you to our Principal, faculty members, and everyone who made this possible 🙏
 
@@ -34,5 +35,7 @@ Special shoutout to the entire organizing team for making the launch smooth and 
 
 DHARSHAN S P, Vikram Bose MSU
 
-This is just the beginning — stay tuned for workshops, CTFs, speaker sessions, and hands-on cyber adventures 
+This is just the beginning — stay tuned for workshops, CTFs, speaker sessions, and hands-on cyber adventures
+
+</details> 
 
