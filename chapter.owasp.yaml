@@ -1,0 +1,25 @@
+leaders:
+  - name: Soma Prathibha
+    email: soma.prathibha@owasp.org
+  - name: Kannan K
+    email: kannan.k@owasp.org
+  - name: Gowtham PN
+    email: gowthan.pn@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Chennai
+  latitude: 13.0836939
+  longitude: 80.270186
+meetup_group: owasp-sri-sairam-engineering-college-student-chapter
+name: OWASP Sri Sairam Engineering College
+repositories:
+  - name: www-chapter-sri-sairam-engineering-college
+    url: https://github.com/OWASP/www-chapter-sri-sairam-engineering-college
+    description: OWASP Foundation web repository
+tags:
+  - OWASP-SSEC
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-sri-sairam-engineering-college

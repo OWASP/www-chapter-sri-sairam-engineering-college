@@ -4,5 +4,6 @@
 
 ### Social Links
 * [Meetup](#)
+* [Linkedin](https://www.linkedin.com/company/owasp-sri-sairam-engineering-college-chapter/)
 
 
