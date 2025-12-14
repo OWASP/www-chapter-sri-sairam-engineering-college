@@ -10,7 +10,7 @@ meetup-group: owasp-sri-sairam-engineering-college-student-chapter
 ---
 
 ## Welcome
-<img src="assets/images/OWASP_SEC.png">
+<img src="assets/images/logo.png">
 
 ```THIS IS SRI SAIRAM ENGINEERING COLLEGE'S OWASP STUDENT BRANCH```
 
