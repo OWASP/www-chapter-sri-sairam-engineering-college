@@ -147,3 +147,65 @@ This isn't just a site — it's a community hub where passion for ethical hackin
 
 </details>
 
+<details markdown="1">
+<summary><strong>🔓 Hack Your First App: OWASP Juice Shop - December 11, 2025</strong></summary>
+
+<img src="assets/images/event_5.png" alt="Hack Your First App: OWASP Juice Shop">
+
+## 🍹 Hack Along Session #1: OWASP Juice Shop
+
+Ready to get your hands dirty with real-world web application hacking? 
+
+Join us for an exciting **Hack Along Session** where you'll learn to identify and exploit vulnerabilities in one of the most popular intentionally insecure web applications — **OWASP Juice Shop**! 🛒💻
+
+This is not your typical webinar — it's a **hands-on hacking session** where you'll follow along, exploit vulnerabilities, and learn the art of penetration testing in a safe, legal environment.
+
+### 🗓️ Event Details:
+
+🔐 **Hack Your First App: OWASP Juice Shop**
+
+📅 **Date:** 11th December 2025 (Wednesday)
+
+📍 **Venue:** Online via Google Meet
+
+🧑‍💻 **Session Type:** Hands-on (Hack Along)
+
+### 🔧 Prerequisites:
+
+To make the most of this session, please have the following installed:
+
+- 🐳 **Docker** - For running the Juice Shop application
+- 🟢 **Node.js** - For understanding the backend
+
+💡 Don't worry if you're new to this — we'll guide you through the setup and exploitation process step by step!
+
+### 🎯 What You'll Learn:
+
+- Setting up vulnerable applications for practice 🛠️
+- Common web application vulnerabilities (OWASP Top 10) 🔍
+- SQL Injection, XSS, Authentication Bypass, and more! 🚨
+- How to think like a penetration tester 🧠
+- Hands-on exploitation techniques in a safe environment ✅
+
+### Organized by:
+
+🛡️ **Department of Computer Science & Engineering (Cyber Security)**
+
+🤝 **In association with OWASP Sri Sairam Engineering College Chapter**
+
+📍 **Sri Sairam Engineering College, Chennai**
+
+### Special thanks to our mentors:
+
+👩‍🏫 **Dr. Soma Prathiba** – HOD, CSE (Cyber Security), Sri Sairam Engineering College
+
+👨‍💼 **Dr. J. Raja** – Principal, Sri Sairam Engineering College
+
+🎓 **Dr. Sai Prakash Leo Muthu** – CEO & Chairman, Sairam Institutions
+
+🔥 Whether you're a beginner curious about ethical hacking or someone looking to sharpen their pentesting skills — this session will give you practical, real-world experience in finding and exploiting web vulnerabilities.
+
+📢 **Register now and start your journey into offensive security!**
+
+</details>
+
